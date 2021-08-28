@@ -7,8 +7,11 @@ Data transmission security issues have become increasingly prominent with the ra
 
 
 代码遵循MIT协议。
-作者：胡一鸣、吉晨昊
+
+代码作者：胡一鸣、吉晨昊
+
 邮箱：hu199715@gmail.com
 
-Yiming Hu、Chenhao Ji
+Programmer: Yiming Hu、Chenhao Ji
+
 Email: hu199715@gmail.com
