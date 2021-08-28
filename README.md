@@ -5,9 +5,10 @@ Parallel Implementation of SM4-CTR Algorithm based on General Computing Platform
 
 Data transmission security issues have become increasingly prominent with the rapid development of big data, cloud computing, and 5G communication technologies. The design and efficient implementation of cryptographic algorithms have become particularly important. Domestic cryptographic algorithms that can run at high speeds have become the key to protecting national security. At the same time, the hardware GPU, which was initially used for image computing, became a universal and popular computing power resource after the release of the programming model CUDA. Based on a general computer platform, this paper proposes a parallel implementation and optimization scheme for using its local GPU to perform high-speed encryption and decryption of SM4 algorithm in CTR mode. Experiments show that the SM4-CTR parallel encryption and decryption scheme proposed in this paper can effectively improve the operating efficiency of the SM4 algorithm. On a general computer platform, it can achieve 40 times the speedup, and the encryption and decryption rate has reached 14.192Gbps. The experiment also analyzed the effect of thread block division on the GPU parallel acceleration effect. The optimal thread block size is 128 to 512, and must be an integral multiple of 32. Finally, based on the results of the experiments in this article, compare the optimized SM4 solutions of other teams, including the solutions optimized by CPU and GPU in the traditional working mode and the solutions quickly implemented by software. The comparison results show that even other team’s solution runs on the better platform hardware conditions, the operating speed of the scheme proposed in this article can still achieve a significant lead. Therefore, the solution in this paper has a broader application platform while improving security and computing speed. It will play a huge role in the security protection of big data and personal data in real life.
 
-论文欢迎引用，代码欢迎测试
 
 代码遵循MIT协议。
-
 作者：胡一鸣、吉晨昊
 邮箱：hu199715@gmail.com
+
+Yiming Hu、Chenhao Ji
+Email: hu199715@gmail.com
