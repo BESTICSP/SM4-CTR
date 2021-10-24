@@ -11,3 +11,6 @@ Data transmission security issues have become increasingly prominent with the ra
 代码作者：胡一鸣、吉晨昊
 
 Programmer: Yiming Hu、Chenhao Ji
+
+
+本研究已被《密码学报》录取
