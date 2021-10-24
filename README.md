@@ -10,8 +10,4 @@ Data transmission security issues have become increasingly prominent with the ra
 
 代码作者：胡一鸣、吉晨昊
 
-邮箱：hu199715@gmail.com
-
 Programmer: Yiming Hu、Chenhao Ji
-
-Email: hu199715@gmail.com
