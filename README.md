@@ -12,5 +12,6 @@ Data transmission security issues have become increasingly prominent with the ra
 
 Programmer: Yiming Hu、Chenhao Ji
 
+联系方式：zjy@besti.edu.cn
 
 本研究已被《密码学报》录取
