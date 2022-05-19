@@ -15,3 +15,5 @@ Programmer: Yiming Hu、Chenhao Ji
 联系方式：zjy@besti.edu.cn
 
 本研究已被《密码学报》录取
+
+北京电子科技学院CSP实验室
